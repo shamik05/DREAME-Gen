@@ -1,0 +1,29 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shamik H",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamik05/Homework-09-Node.js-and-ES6-Good-README-Generator.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6",
+    "ReadMe",
+    "Generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/shamik05/Homework-09-Node.js-and-ES6-Good-README-Generator/issues"
+  },
+  "homepage": "https://github.com/shamik05/Homework-09-Node.js-and-ES6-Good-README-Generator#readme"
+}
