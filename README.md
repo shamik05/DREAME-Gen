@@ -15,7 +15,8 @@ To install necessary dependencies, run the following command:
 npm i
 ```
 ## Usage 
-Run it from command line interface
+Run it from command line interface. A demo can be found in the link below
+https://drive.google.com/file/d/1NiHvaf7g9UuFd0XLXXzsFD1kI7BRsCRk/view
 ## License 
 The project is licensed under the GPL 3.0 license.
 ## Contributing
