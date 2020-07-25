@@ -1,7 +1,7 @@
-# Matrix
-![GitHub License](https://img.shields.io/badge/License-APACHE%202.0-blue)
+# Good README Generator
+![GitHub License](https://img.shields.io/badge/License-GPL%203.0-blue)
 ## Description
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium obcaecati ex reiciendis ipsam iusto veritatis eaque neque quibusdam tempore suscipit eos harum, a magnam nobis nostrum reprehenderit, rem asperiores fuga, natus cumque? Veniam repudiandae saepe, ea voluptas beatae soluta? Reprehenderit aut non vel, magni velit molestiae odio autem illo quis?
+It generates a readme.md file based on answers you give it
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
@@ -15,11 +15,11 @@ To install necessary dependencies, run the following command:
 npm i
 ```
 ## Usage 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium obcaecati ex reiciendis ipsam iusto veritatis eaque neque quibusdam tempore suscipit eos harum, a magnam nobis nostrum reprehenderit, rem asperiores fuga, natus cumque? Veniam repudiandae saepe, ea voluptas beatae soluta? Reprehenderit aut non vel, magni velit molestiae odio autem illo quis?
+Run it from command line interface
 ## License 
-The project is licensed under the APACHE 2.0 license.
+The project is licensed under the GPL 3.0 license.
 ## Contributing
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium obcaecati ex reiciendis ipsam iusto veritatis eaque neque quibusdam tempore suscipit eos harum, a magnam nobis nostrum reprehenderit, rem asperiores fuga, natus cumque? Veniam repudiandae saepe, ea voluptas beatae soluta? Reprehenderit aut non vel, magni velit molestiae odio autem illo quis? 
+Just message the owner 
 ## Tests
 To run tests, run the following command:
 ```
