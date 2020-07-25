@@ -8,25 +8,21 @@ const questions = [
         type: 'input',
         name: 'githubName',
         message: 'What is your GitHub name?',
-        default: 'shamik05',
     },
     {
         type: 'input',
         name: 'email',
         message: 'What is your email address?',
-        default: 'shamik05@hotmail.com',
     },
     {
         type: 'input',
         name: 'projectName',
         message: `What is your project's name?`,
-        default: 'Matrix',
     },
     {
         type: 'input',
         name: 'projectDesc',
         message: 'Please write a short description of your project?',
-        default: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium obcaecati ex reiciendis ipsam iusto veritatis eaque neque quibusdam tempore suscipit eos harum, a magnam nobis nostrum reprehenderit, rem asperiores fuga, natus cumque? Veniam repudiandae saepe, ea voluptas beatae soluta? Reprehenderit aut non vel, magni velit molestiae odio autem illo quis?',
     },
     {
         type: 'list',
@@ -39,7 +35,6 @@ const questions = [
         "BSD 3",
         "None"
         ],
-        default: 'APACHE 2.0',
     },
     {
         type: 'input',
@@ -57,13 +52,11 @@ const questions = [
         type: 'input',
         name: 'infoAdditional',
         message: 'What does the user need to know about using the repo?',
-        default: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium obcaecati ex reiciendis ipsam iusto veritatis eaque neque quibusdam tempore suscipit eos harum, a magnam nobis nostrum reprehenderit, rem asperiores fuga, natus cumque? Veniam repudiandae saepe, ea voluptas beatae soluta? Reprehenderit aut non vel, magni velit molestiae odio autem illo quis?',
     },
     {
         type: 'input',
         name: 'infoContributing',
         message: 'What does the user need to know about contributing to the repo?',
-        default: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium obcaecati ex reiciendis ipsam iusto veritatis eaque neque quibusdam tempore suscipit eos harum, a magnam nobis nostrum reprehenderit, rem asperiores fuga, natus cumque? Veniam repudiandae saepe, ea voluptas beatae soluta? Reprehenderit aut non vel, magni velit molestiae odio autem illo quis?',
     },
 ];
 
