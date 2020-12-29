@@ -1,20 +1,25 @@
 {
-  "name": "static-site",
+  "name": "dreamegen",
   "version": "1.0.0",
-  "description": "README Generator",
+  "description": "Markdown generator for github",
+  "private": true,
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "Shamik H",
+  "author": "Shamik Haldar",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "enquirer": "^2.3.6"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shamik05/Homework-09-Node.js-and-ES6-Good-README-Generator.git"
+    "url": "git+https://github.com/shamik05/DREAME-Gen.git"
   },
   "keywords": [
     "Node",
@@ -25,5 +30,5 @@
   "bugs": {
     "url": "https://github.com/shamik05/Homework-09-Node.js-and-ES6-Good-README-Generator/issues"
   },
-  "homepage": "https://github.com/shamik05/Homework-09-Node.js-and-ES6-Good-README-Generator#readme"
+  "homepage": "https://github.com/shamik05/DREAME-Gen"
 }
