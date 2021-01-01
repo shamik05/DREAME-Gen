@@ -6,14 +6,13 @@ const { username } = require("./questions");
 console.log(username)
 
 
-const init = async (username) => {
-  console.log(username)
+const init = async (question) => {
   // const response = await prompt({
   //   type: "input",
   //   name: "username",
   //   message: "What is your github username?",
   // })
-  const response = await prompt(username)
+  const response = await prompt(question)
   console.log(response);
 }
 
